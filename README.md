@@ -63,7 +63,7 @@
 
 <p>Below is the Screenshot of the Expandable FAB Menu Challenge:</p>
 
-<img src="preview.png" alt="Expandable FAB Menu Preview">
+<img src="Preview.png" alt="Expandable FAB Menu Preview">
 
 <h2 id="contributing">Contributing</h2>
 
